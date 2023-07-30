@@ -1,4 +1,3 @@
-```coldfusion
 <cfcomponent>
 
     <cfproperty name="columnName" type="string">
@@ -32,4 +31,3 @@
     </cffunction>
 
 </cfcomponent>
-```
